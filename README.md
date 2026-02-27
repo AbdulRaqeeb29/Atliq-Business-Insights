@@ -59,53 +59,53 @@ The solution is built using strong data modeling principles, DAX calculations, a
 ## 📂 Project Views
 **💰 Finance View**
 
-**1.** Profit & Loss Statement
+- Profit & Loss Statement
 
-**2.** Net Sales, Gross Margin, Net Profit KPIs
+- Net Sales, Gross Margin, Net Profit KPIs
 
-**3.** Year-over-Year (YoY) Analysis
+- Year-over-Year (YoY) Analysis
 
-**4.** Cost & Expense Breakdown
+- Cost & Expense Breakdown
 
-**5.** Variance Analysis
+- Variance Analysis
 
 📄 Finance View Preview included in repository
 
 **📈 Sales View**
 
-**1.** Customer & Product Performance Analysis
+- Customer & Product Performance Analysis
 
-**2.** Regional Sales Trends
+- Regional Sales Trends
 
-**3.** % Sales Contribution
+- % Sales Contribution
 
-**4.** Top & Bottom Performing Products
+- Top & Bottom Performing Products
 
-**5.** Dynamic KPI tracking
+- Dynamic KPI tracking
 
 📄 Sales View Preview included in repository
 
 **📊 Marketing View**
 
-**1.** Market & Segment Performance
+- Market & Segment Performance
 
-**2.** Product Category Analysis
+- Product Category Analysis
 
-**3.** Growth & Market Share Tracking
+- Growth & Market Share Tracking
 
-**4.** Customer Segmentation Insights
+- Customer Segmentation Insights
 
 📄 Marketing View Preview included in repository
 
 **🚚 Supply Chain View**
 
-**1.** Forecast Accuracy
+- Forecast Accuracy
 
-**2.** Inventory Performance
+- Inventory Performance
 
-**3.** Order Fulfillment Metrics
+- Order Fulfillment Metrics
 
-**4.** Supply Efficiency KPIs
+- Supply Efficiency KPIs
 
 📄 Supply Chain View Preview included in repository
 
