@@ -9,8 +9,6 @@ The solution is built using strong data modeling principles, DAX calculations, a
 
 
 ## 🎯 Business Objectives
-
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
   
 - Monitor overall company financial performance
 
@@ -24,39 +22,39 @@ The solution is built using strong data modeling principles, DAX calculations, a
 
 ## 🏗️ Data Architecture
 
-The project is built using:
+- **The project is built using:**
 
-Relational Data Modelling
+- Relational Data Modelling
 
-Star Schema & Snowflake Schema
+- Star Schema & Snowflake Schema
 
-Fact and Dimension tables
+- Fact and Dimension tables
 
-OLTP source simulation transformed into OLAP reporting model
+- OLTP source simulation transformed into OLAP reporting model
 
-The data model ensures:
+- **The data model ensures:**
 
-Optimized relationships
+- Optimized relationships
 
-Reduced redundancy
+- Reduced redundancy
 
-Efficient DAX performance
+- Efficient DAX performance
 
-Scalable enterprise-ready structure
+- Scalable enterprise-ready structure
 
 ## 🛠️ Tools & Technologies Used
 
-Power BI Desktop
+- Power BI Desktop
 
-Power Query (ETL & Data Transformation)
+- Power Query (ETL & Data Transformation)
 
-DAX (Data Analysis Expressions)
+- DAX (Data Analysis Expressions)
 
-Excel (Data Source)
+- Excel and SQL (Data Sources)
 
-OLTP & OLAP Concepts
+- OLTP & OLAP Concepts
 
-Star & Snowflake Schema Modeling
+- Star & Snowflake Schema Modeling
 
 ## 📂 Project Views
 ** 💰 Finance View
