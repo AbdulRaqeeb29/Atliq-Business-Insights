@@ -111,49 +111,49 @@ The solution is built using strong data modeling principles, DAX calculations, a
 
 ## 🧠 Key Skills Demonstrated
 
-Data Transformation using Power Query
+- Data Transformation using Power Query
 
-Relational Data Modelling
+- Relational Data Modelling
 
-DAX Measure Development
+- DAX Measure Development
 
-OLTP to OLAP Data Structuring
+- OLTP to OLAP Data Structuring
 
-Star & Snowflake Schema Design
+- Star & Snowflake Schema Design
 
-Sales Analytics
+- Sales Analytics
 
-Business Analytics
+- Business Analytics
 
-Marketing Analytics
+- Marketing Analytics
 
-Supply Chain Analytics
+- Supply Chain Analytics
 
-KPI Development & Performance Tracking
+- KPI Development & Performance Tracking
 
-📊 Advanced DAX Highlights
+## 📊 Advanced DAX Highlights
 
-% Sales Contribution
+- % Sales Contribution
 
-Dynamic Ranking using RANKX
+- Dynamic Ranking using RANKX
 
-Time Intelligence (YoY, YTD, MTD)
+- Time Intelligence (YoY, YTD, MTD)
 
-Conditional Formatting Measures
+- Conditional Formatting Measures
 
-Variance Analysis using CALCULATE & ALL
+- Variance Analysis using CALCULATE & ALL
 
-🚀 Business Impact
+# 🚀 Business Impact
 
-This dashboard enables stakeholders to:
+- This dashboard enables stakeholders to:
 
-Identify revenue leakage
+- Identify revenue leakage
 
-Monitor margin performance
+- Monitor margin performance
 
-Improve forecasting accuracy
+- Improve forecasting accuracy
 
-Optimize inventory decisions
+- Optimize inventory decisions
 
-Drive data-driven strategic planning
+- Drive data-driven strategic planning
 
