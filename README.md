@@ -69,7 +69,8 @@ The solution is built using strong data modeling principles, DAX calculations, a
 
 - Variance Analysis
 
-📄 Finance View Preview included in repository
+_[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/FINANCE-view.png)_ 
+
 
 **📈 Sales View**
 
