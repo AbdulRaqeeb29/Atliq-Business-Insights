@@ -57,17 +57,17 @@ The solution is built using strong data modeling principles, DAX calculations, a
 - Star & Snowflake Schema Modeling
 
 ## 📂 Project Views
-** 💰 Finance View
+**💰 Finance View**
 
-Profit & Loss Statement
+**1.** Profit & Loss Statement
 
-Net Sales, Gross Margin, Net Profit KPIs
+**2.** Net Sales, Gross Margin, Net Profit KPIs
 
-Year-over-Year (YoY) Analysis
+**3.** Year-over-Year (YoY) Analysis
 
-Cost & Expense Breakdown
+**4.** Cost & Expense Breakdown
 
-Variance Analysis
+**5.** Variance Analysis
 
 📄 Finance View Preview included in repository
 
