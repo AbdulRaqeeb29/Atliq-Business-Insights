@@ -24,23 +24,23 @@ The solution is built using strong data modeling principles, DAX calculations, a
 
 - **The project is built using:**
 
-- Relational Data Modelling
+  **1.** Relational Data Modelling
 
-- Star Schema & Snowflake Schema
+  **2.** Star Schema & Snowflake Schema
 
-- Fact and Dimension tables
+  **3.** Fact and Dimension tables
 
-- OLTP source simulation transformed into OLAP reporting model
+  **4.** OLTP source simulation transformed into OLAP reporting model
 
 - **The data model ensures:**
 
-- Optimized relationships
+  **1.** Optimized relationships
 
-- Reduced redundancy
+  **2.** Reduced redundancy
 
-- Efficient DAX performance
+  **3.** Efficient DAX performance
 
-- Scalable enterprise-ready structure
+  **4.** Scalable enterprise-ready structure
 
 ## 🛠️ Tools & Technologies Used
 
