@@ -10,7 +10,7 @@ The solution is built using strong data modeling principles, DAX calculations, a
 
 ## 🎯 Business Objectives
 
-**Monitor overall company financial performance**
+**1.** Monitor overall company financial performance
 
 Track sales growth and product contribution
 
