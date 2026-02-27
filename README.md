@@ -59,6 +59,8 @@ The solution is built using strong data modeling principles, DAX calculations, a
 ## 📂 Project Views
 **💰 Finance View**
 
+_[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/FINANCE-view.png)_
+
 - Profit & Loss Statement
 
 - Net Sales, Gross Margin, Net Profit KPIs
@@ -68,11 +70,12 @@ The solution is built using strong data modeling principles, DAX calculations, a
 - Cost & Expense Breakdown
 
 - Variance Analysis
-
-_[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/FINANCE-view.png)_ 
+ 
 
 
 **📈 Sales View**
+
+_[Sales-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/SALES-view.png)_
 
 - Customer & Product Performance Analysis
 
@@ -84,9 +87,9 @@ _[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/
 
 - Dynamic KPI tracking
 
-📄 Sales View Preview included in repository
-
 **📊 Marketing View**
+
+_[Marketing-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/MARKETING-view.png)_
 
 - Market & Segment Performance
 
@@ -96,9 +99,10 @@ _[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/
 
 - Customer Segmentation Insights
 
-📄 Marketing View Preview included in repository
 
 **🚚 Supply Chain View**
+
+_[Supply-chain-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/SUPPLY-CHAIN-view.png)_
 
 - Forecast Accuracy
 
@@ -108,7 +112,6 @@ _[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/
 
 - Supply Efficiency KPIs
 
-📄 Supply Chain View Preview included in repository
 
 ## 🧠 Key Skills Demonstrated
 
