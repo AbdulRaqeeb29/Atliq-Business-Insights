@@ -59,7 +59,7 @@ The solution is built using strong data modeling principles, DAX calculations, a
 ## 📂 Project Views
 **💰 Finance View**
 
-**1.** Profit & Loss Statement
+  **1.** Profit & Loss Statement
 
 **2.** Net Sales, Gross Margin, Net Profit KPIs
 
