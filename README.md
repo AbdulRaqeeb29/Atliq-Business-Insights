@@ -59,7 +59,7 @@ The solution is built using strong data modeling principles, DAX calculations, a
 ## 📂 Project Views
 **💰 Finance View**
 
-_[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/FINANCE-view.png)_
+_[Finance-view](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/FINANCE-view.png)_
 
 - Profit & Loss Statement
 
@@ -75,7 +75,7 @@ _[Finance-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/
 
 **📈 Sales View**
 
-_[Sales-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/SALES-view.png)_
+_[Sales-view](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/SALES-view.png)_
 
 - Customer & Product Performance Analysis
 
@@ -89,7 +89,7 @@ _[Sales-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/bl
 
 **📊 Marketing View**
 
-_[Marketing-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/MARKETING-view.png)_
+_[Marketing-view](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/MARKETING-view.png)_
 
 - Market & Segment Performance
 
@@ -102,7 +102,7 @@ _[Marketing-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insight
 
 **🚚 Supply Chain View**
 
-_[Supply-chain-view report](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/SUPPLY-CHAIN-view.png)_
+_[Supply-chain-view](https://github.com/AbdulRaqeeb29/Atliq-Business-Insights/blob/main/dashboardimages/SUPPLY-CHAIN-view.png)_
 
 - Forecast Accuracy
 
